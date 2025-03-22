@@ -2,7 +2,7 @@
 
 A modern Text-based User Interface (TUI) application that intelligently sorts files in any directory into appropriate folders based on their file types.
 
-![File Organizer Pro Screenshot](screenshots/app_screenshot.png)
+![File Organizer Pro Screenshot](app_screenshot.png)
 
 ## ✨ Features
 
